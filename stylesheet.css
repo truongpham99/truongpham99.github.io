@@ -62,3 +62,16 @@ a {
   span.highlight {
       background-color: #ffffd0;
   }
+  .pub-entry {
+    margin-bottom: 28px;
+  }
+  
+  .pub-entry p {
+    margin-top: 6px;
+    margin-bottom: 0;
+  }
+  
+  .pub-entry:last-child {
+    margin-bottom: 0;
+  }
+    
